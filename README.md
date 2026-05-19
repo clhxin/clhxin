@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm huey xin! 👋
 
-<!--
-**clhxin/clhxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I am a university student just getting started on my coding journey. I am using this GitHub profile to track my progress, keep myself accountable.
 
-Here are some ideas to get you started:
+### 🎯 My Interests
+- **UI/UX Design:** I am really interested in learning how to design good user experiences, though I am completely new to it right now!
+- **Python & R:** I have some intro-to-intermediate exposure to Python and R from DataCamp, and I'm currently working on building back my fluency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 What I'm Doing Right Now
+- 🧠 Watching **Harvard's CS50x** to learn core computer science fundamentals from scratch.
+- 💻 Setting up this GitHub profile to log my code as I learn.
+
+📬 **Let's Connect:** (https://www.linkedin.com/in/lohhueyxin/)
